@@ -4,15 +4,15 @@ body {
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
-  color: #222222;
-  background-color: #f2f4f6;
+  color: #ffffff;
+  background-color: #ffffff;
   background-image: url("img/Magapidor.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
 
 .container {
-  max-width: 928px;
+  max-width: 939px;
   margin: 0 auto;
   padding: 0 16px;
 }
